@@ -1,5 +1,8 @@
 # Deep Learning course
 
+Этот репозиторий содержит домашние задания по нейронным сетям
+
+---
 
 Zertsalov Alexey
 
